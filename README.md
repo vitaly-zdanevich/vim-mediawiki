@@ -205,7 +205,7 @@ let g:vim_mediawiki_completion_namespaces = {
 \       '[[': 0,
 \       '[[File:': 6,
 \       '[[Kategori:': 14,
-\   },
+\   }
 \ }
 ```
 Only the namespaces listed in this map will be completed. A `default` entry is
